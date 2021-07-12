@@ -14,11 +14,14 @@ $ python3 script.py inputimage.jpg
 ```
 ###  Demonstration of Image Segmentation using Unet:
 - Input Image (bluecolor_stamp.jpg) of Stamp:
-![Input Stamp](https://github.com/mr-ravin/transparent_stamps/blob/main/bluecolor_stamp.jpg)
+![Input Stamp](https://github.com/mr-ravin/transparent_stamps/blob/main/bluecolor_stamp_v2.jpg)
 
-  - Running in terminal:
+- Running in terminal:
 ```python3
 $ python3 script.py bluecolor_stamp.jpg 
+```
+- Output Image (result.png) of Stamp, Placed over :```
+![Transparent Stamp](https://github.com/mr-ravin/transparent_stamps/blob/main/result_tmp.png)
 ```
 
 ```python
