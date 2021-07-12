@@ -21,7 +21,7 @@ $ python3 script.py inputimage.jpg
 ```python3
 $ python3 script.py bluecolor_stamp.jpg 
 ```
-- Output Image (result.png) of Stamp, Placed over :
+- Output Image (result.png) of Stamp:
 
 ![Transparent Stamp](https://github.com/mr-ravin/transparent_stamps/blob/main/result_tmp.png)
 
